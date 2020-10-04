@@ -42,11 +42,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ##### Cookie Cats is a popular mobile game with more than 1M downloads and more than 95,000 reviews. The game is a "connect three" style puzzle game. As the players level up, they will find gates that force them to wait a time, watch an ad, or purchase to continue playing. In this project, we want to analyze the impact on player "retention" of moving the first gate from 30 to 40.
 
@@ -64,6 +59,9 @@ The data was collected by Tactile Entertainment, and it provides the following v
 3.   sum_gamerounds - The number of game rounds played by the player during the first 14 days after install.
 3.   retention_1 - Did the player come back and play 1 day after installing?
 4.   retention_7 - Did the player come back and play 7 days after installing?
+
+<br>
+<br>
 
 # Exploratory Data Analysis
 
