@@ -328,7 +328,7 @@ print(f'Degree of freedom: {dof}')
 
 Now that we have set the alpha, and we have found the degree of freedom, observed, and expected values, it is time to compute the **Chi-Square**
 
-![png](img/download1)
+![png](img/download1.png)
 
 
 ```python
