@@ -35,9 +35,10 @@
 <span>
 <p align="center">
   <a href="https://github.com/AlrxKali/AB_testing_Mobile_game">
-    <img src="img/download.jpg" alt="Logo" width="180" height="180" align="left">
+    <img src="img/download.jpg" alt="Logo" width="180" height="180" align="center">
   </a>
 </span>
+<br>
 <br>
 <br>
 <br>
@@ -51,6 +52,11 @@
     <img src="img/Screenshot.jpg" alt="Logo" width="280" height="280" align="left">
   </a>
 </span>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 The data was collected by Tactile Entertainment, and it provides the following variables:
 
