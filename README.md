@@ -57,6 +57,11 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 The data was collected by Tactile Entertainment, and it provides the following variables:
 
@@ -66,7 +71,6 @@ The data was collected by Tactile Entertainment, and it provides the following v
 3.   retention_1 - Did the player come back and play 1 day after installing?
 4.   retention_7 - Did the player come back and play 7 days after installing?
 
-<br>
 <br>
 
 # Exploratory Data Analysis
