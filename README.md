@@ -26,7 +26,7 @@
   </p>
 </p>
 
-[license-shield]: 'img/license.svg'
+[license-shield]: img/license.svg
 [license-url]: https://github.com/AlrxKali/AB_testing_Mobile_game/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alejandro-alemany/
