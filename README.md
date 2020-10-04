@@ -26,27 +26,39 @@
   </p>
 </p>
 
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: 'img/license.svg'
+[license-url]: https://github.com/AlrxKali/AB_testing_Mobile_game/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alejandro-alemany/
 
 # Cookie Cats 
 <span>
-<p align="right">
+<p align="center">
   <a href="https://github.com/AlrxKali/AB_testing_Mobile_game">
-    <img src="img/download.jpg" alt="Logo" width="180" height="180" align="left">
+    <img src="img/download.jpg" alt="Logo" width="180" height="180" align="center">
   </a>
 </span>
+<br>
 
 ##### Cookie Cats is a popular mobile game with more than 1M downloads and more than 95,000 reviews. The game is a "connect three" style puzzle game. As the players level up, they will find gates that force them to wait a time, watch an ad, or purchase to continue playing. In this project, we want to analyze the impact on player "retention" of moving the first gate from 30 to 40.
 
 <span>
-<p align="left">
+<p align="right">
   <a href="https://github.com/AlrxKali/AB_testing_Mobile_game">
-    <img src="img/Screenshot.jpg" alt="Logo" width="280" height="280" align="left">
+    <img src="img/Screenshot.jpg" alt="Logo" width="480" height="280" align="left">
   </a>
 </span>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 The data was collected by Tactile Entertainment, and it provides the following variables:
 
@@ -55,6 +67,8 @@ The data was collected by Tactile Entertainment, and it provides the following v
 3.   sum_gamerounds - The number of game rounds played by the player during the first 14 days after install.
 3.   retention_1 - Did the player come back and play 1 day after installing?
 4.   retention_7 - Did the player come back and play 7 days after installing?
+
+<br>
 
 # Exploratory Data Analysis
 
