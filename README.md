@@ -41,6 +41,14 @@
 
 ##### Cookie Cats is a popular mobile game with more than 1M downloads and more than 95,000 reviews. The game is a "connect three" style puzzle game. As the players level up, they will find gates that force them to wait a time, watch an ad, or purchase to continue playing. In this project, we want to analyze the impact on player "retention" of moving the first gate from 30 to 40.
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <span>
 <p align="right">
   <a href="https://github.com/AlrxKali/AB_testing_Mobile_game">
