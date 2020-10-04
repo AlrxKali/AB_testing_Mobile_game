@@ -118,7 +118,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![png](img/output_9_0.png)
 
 
 The graph below shows that after 20 rounds, the number of users that continue engaged falls below 1000. The game rounds do not increase after seven days, either. 
@@ -132,7 +132,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](img/output_11_0.png)
 
 
 Both graphs seem identical at first sight. It is clear that game rounds fall after 20 matches, so it is crucial to see whether changing the first gate will help to increase retention. 
@@ -159,7 +159,7 @@ plt.grid(True)
 ```
 
 
-![png](output_14_0.png)
+![png](img/output_14_0.png)
 
 
 There is a slight difference in both groups, so it will be interesting to find how significant is the difference. There is an increase of game rounds when the first gate is at 30, but **how significant is the difference?**
@@ -199,7 +199,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](img/output_19_0.png)
 
 
 
@@ -212,7 +212,7 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![png](img/output_20_0.png)
 
 
 The data is close to half for gate_30 and half for gate_40. However, the information we need to test the hypothesis is categorical. Therefore, a Chi-Square will be the tool used for the analysis.
@@ -227,7 +227,7 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![png](img/output_22_0.png)
 
 
 
@@ -411,7 +411,7 @@ plt.show()
 ```
 
 
-![png](output_35_0.png)
+![png](img/output_35_0.png)
 
 
 Most of the distribution under the curve is positive. Therefore, the retention percent is higher at gate 30. However, **what is the probability that the retention will be higher after one day of installing the game?**
