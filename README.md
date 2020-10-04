@@ -1,1 +1,1 @@
-<button name="button" onclick="http://www.google.com">LinkedIn</button>
+[Click me](http://www.google.com){: .btn}
